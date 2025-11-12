@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Gabriel Gomes<br>
+        I'm Gabriel, Recent BSc (Hons) Computer Science – Cybersecurity graduate with strong foundations in software engineering, cybersecurity, and IT engineering support. Experienced in developing software solutions from desktop GUIs to Android apps, with additional knowledge of Python, machine learning, and automation. Skilled in problem-solving, debugging, full SDLC, and security monitoring, threat analysis, and incident response principles. I am a multilingual communicator with both technical and customer-facing experience, now seeking an entry-level/junior role in software engineering, cybersecurity, SOC analyst, or IT engineering support to apply and grow technical expertise.<br>
         |IT & Cybersecurity Professional | Network Security & Digital Forensics |<br>
         |Transitioning from Hospitality & Healthcare |<br>
         |Trilingual: English, Spanish, Portuguese | <br>
