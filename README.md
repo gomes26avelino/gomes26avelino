@@ -28,7 +28,7 @@ Here are some ideas to get you started:
         Open to collaborating on interesting and innovative projects.<br>
        
   <i></i><br>
-<a href="https://www.linkedin.com/in/gabrielhumbert/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://www.linkedin.com/in/gabrielghumbert/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="mailto:gabrielhumbert@outlook.com">
